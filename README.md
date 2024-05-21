@@ -19,4 +19,4 @@ Welcome to my GitHub profile! I'm Sudhir Joon, a passionate data scientist and a
 - **Big Data Tools:** Apache Spark, Hadoop
 - **Database Management:** MySQL, PostgreSQL
 
-Let's connect and collaborate on exciting data-driven projects! Feel free to reach out to me via [email](mailto:sudhirjoon@example.com) or [LinkedIn](https://www.linkedin.com/in/sudhirjoon/).
+Let's connect and collaborate on exciting data-driven projects! Feel free to reach out to me via [email](mailto:sudhirjoon05@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sudhirjoon/).
