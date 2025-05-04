@@ -1,59 +1,52 @@
+```markdown
 # Hi there 👋 I'm Joon
 
-**Aspiring Data Engineer | MSc Data Science Student @ ATU Sligo**
+**Data Engineer Intern Candidate | MSc Data Science @ ATU Sligo**
 
-Welcome to my GitHub profile! I’m pursuing my Master’s in Data Science at Atlantic Technological University, Ireland, and actively seeking a Data Engineer Intern role. My passion is architecting robust, end-to-end data solutions that power analytics and machine learning workflows.
-
----
-
-## 🔭 Core Focus Areas
-
-- **Data Pipeline Development:** Designing and implementing scalable ETL/ELT workflows using Python, PySpark, and Airflow.
-- **Big Data Processing:** Hands-on experience with Apache Spark and Hadoop for large-scale data transformations.
-- **Modular Architecture:** Building reusable Python modules for data ingestion, validation, and transformation.
+I’m currently pursuing my Master’s in Data Science at ATU Sligo, where I design and deploy scalable data solutions. I’m seeking a Data Engineer Intern role to leverage my skills in ETL, big data processing, and cloud services.
 
 ---
 
-## 🌱 Ongoing Learning & Projects
+## 🔭 Core Expertise
 
-- **Advanced Data Orchestration:** Automating pipelines with Airflow and Docker for reproducible environments.
-- **Cloud Data Services:** Exploring AWS S3, IAM roles, and serverless data processing.
-- **Real-world Case Studies:** Applying best practices in Git-based version control and CI/CD for data projects.
+- **ETL & Data Pipelines:** Python, PySpark, Apache Airflow for reliable, automated workflows
+- **Big Data Processing:** Apache Spark, Hadoop, Hive for large-scale transformations
+- **Cloud & Serverless:** AWS (S3, Lambda, IAM), Azure fundamentals
+- **Modular Development:** Flexible Python modules for ingestion, validation, and transformation
+- **CI/CD & Containerization:** Docker, Git/GitHub, GitHub Actions for reproducible, version-controlled deployments
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🌱 Ongoing Learning
 
-- **Languages & Scripting:** Python, SQL, PySpark, Bash
-- **Orchestration & Containers:** Apache Airflow, Docker, Git/GitHub
-- **Databases & Warehouses:** PostgreSQL, MySQL, Data Warehousing concepts
-- **Big Data Ecosystem:** Hadoop, Spark, Hive (foundational)
-- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, MLlib
+- Building Airflow DAGs in Dockerized environments for end-to-end orchestration
+- Exploring serverless ETL with AWS Glue and Lambda functions
+- Implementing best practices in infrastructure as code and CI/CD for data workflows
 
 ---
 
 ## 🚀 Featured Projects
 
 ### [Lending Club Risk Scoring](https://github.com/Joon-hub/LendingClubProject)
-Modular PySpark pipeline that processes Lending Club loan data at scale and assigns risk scores.
+A modular PySpark pipeline that ingests, cleans, and scores Lending Club loan data at scale.
 
-- Scalable ingestion & cleaning
-- Risk evaluation metrics and grade assignment
-- Reusable ETL modules
+- **Scalable ETL:** Scripted ingestion of multi-GB datasets
+- **Risk Metrics:** Custom grading logic with MLlib
+- **Reusable Modules:** Parameterized functions for ingestion, cleaning, and scoring
 
 ### [German Real-estate Market Analysis](https://github.com/Joon-hub/German-Real-state-Market-Analysis)
-Interactive dashboard and data pipeline for property listings (2018–2020).
+Interactive dashboard and data pipeline for German property listings (2018–2020).
 
-- Data ingestion, cleaning, and geospatial visualization
-- Airflow DAGs for scheduled updates
-- Price prediction with XGBoost
+- **Data Ingestion & Cleaning:** Automated scripts for raw CSV and JSON
+- **Orchestration:** Airflow DAGs scheduling daily updates
+- **Visualization & Modeling:** Dash dashboard and XGBoost price predictor
 
 ### [Flight Fare Prediction](https://github.com/Joon-hub/Flight_Fare_Prediction)
-End-to-end ML pipeline for dynamic airline ticket pricing.
+End-to-end machine learning pipeline forecasting flight ticket prices.
 
-- Feature engineering from dates and routes
-- Modular Python code with clear data flow
-- Model evaluation and cross-validation
+- **Feature Engineering:** Date- and route-based variables
+- **Pipeline Design:** Modular Python code for preprocessing, training, and evaluation
+- **Model Validation:** Cross-validation and error analysis for accuracy assessment
 
 ---
 
@@ -61,4 +54,7 @@ End-to-end ML pipeline for dynamic airline ticket pricing.
 
 - ✉️ **Email:** [sudhirjoon05@gmail.com](mailto:sudhirjoon05@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/sudhirjoon](https://www.linkedin.com/in/sudhirjoon)
+- 🌐 **Portfolio:** [your-portfolio-site.com](https://your-portfolio-site.com)
+
+Feel free to explore my work and reach out for collaboration or internship opportunities!  
 ```
