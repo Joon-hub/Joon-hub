@@ -12,25 +12,26 @@
 Master of Science candidate in Data Science at Atlantic Technological University, Sligo, Ireland.  
 Aspiring **Data Engineer** looking for an internship to apply my academic knowledge to real-world data challenges and contribute to end-to-end pipeline development.</p>
 
----
 
-## 🔹 Core Expertise  
-✅ **ETL and Data Pipelines** – Design and implementation of reliable workflows using **Python, PySpark, and Apache Airflow**  
-✅ **Big Data Processing** – Large-scale data transformations with **Apache Spark, Hadoop, and Hive**  
-✅ **Cloud and Serverless Architectures** – Deployment on **AWS (S3, Lambda, IAM) and foundational Azure services**  
-✅ **Modular Software Design** – Development of reusable **Python modules** for data ingestion, validation, and transformation  
-✅ **Containerization & CI/CD** – Orchestration with **Docker**, version control via **Git/GitHub**, and automation through **GitHub Actions**  
+## Core Focus Areas
+- **ETL and Data Pipelines** – Design and implementation of reliable workflows using **Python, PySpark, and Apache Airflow**  
 
----
+- **Big Data Processing** – Large-scale data transformations with **Apache Spark, Hadoop, and Hive**  
 
-## 🚀 Ongoing Projects and Learning  
-🔹 Constructing **Airflow DAGs** within Docker containers to automate and schedule complex data workflows  
-🔹 Implementing **serverless ETL processes** using AWS Glue and Lambda for cost-effective scalability  
-🔹 Applying **Infrastructure-as-Code** principles for reproducible, maintainable pipelines  
+- **Cloud and Serverless Architectures** – Deployment on **AWS (S3, Lambda, IAM) and foundational Azure services**  
+
+- **Modular Software Design** – Development of reusable **Python modules** for data ingestion, validation, and transformation  
+
+- **Containerization & CI/CD** – Orchestration with **Docker**, version control via **Git/GitHub**, and automation through **GitHub Actions**  
+
+
+## Ongoing Projects and Learning  
+- Constructing **Airflow DAGs** within Docker containers to automate and schedule complex data workflows  
+- Implementing **serverless ETL processes** using AWS Glue and Lambda for cost-effective scalability  
+- Applying **Infrastructure-as-Code** principles for reproducible, maintainable pipelines  
 
 **💡 Feel free to explore my pinned repositories to learn more about the projects I’ve worked on!**  
 
----
 
 ## 📬 Contact & Collaboration  
 I’m open to discussing potential internship roles or collaborative projects!  
