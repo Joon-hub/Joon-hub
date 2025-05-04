@@ -1,4 +1,3 @@
-```markdown
 # Hi there 👋 I'm Joon
 
 **Aspiring Data Engineer | MSc Data Science Student @ ATU Sligo**
