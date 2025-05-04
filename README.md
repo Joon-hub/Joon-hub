@@ -25,7 +25,7 @@
 
 Aspiring **Data Engineer Intern**, passionate about architecting robust, scalable data pipelines and transforming raw data into actionable insights.
 
-## 🛠️ Skills & Technologies
+### 🛠️ Skills & Technologies
 
 
 | Category               | Tools & Technologies                                                                                                                                                                                                                                                                                                                                                 |
@@ -38,35 +38,35 @@ Aspiring **Data Engineer Intern**, passionate about architecting robust, scalabl
 
 
 
-## 🚀 Selected Projects
+#### 🚀 Selected Projects
 
-### 1. LendingClub Risk Scoring (LendingClubProject)
+#### 1. LendingClub Risk Scoring (LendingClubProject)
 - **Description:** Built an end-to-end PySpark pipeline to ingest, clean, and transform Lending Club loan data. Implemented modular Python scripts for risk evaluation and grade assignment.
 - **Key Technologies:** PySpark · Python Modules · AWS S3 (for staging) · GitHub Actions (CI/CD)
 - **Highlights:** Achieved a processing throughput of 1M+ records in under 5 minutes; implemented data validation checks to ensure <0.1% error rate.
 
-### 2. German Real Estate Market Analysis
+#### 2. German Real Estate Market Analysis
 - **Description:** Analyzed 2018–2020 immoscout24.de listings to identify trends in pricing and demand. Developed an interactive Dash dashboard to visualize city-wise price fluctuations.
 - **Key Technologies:** Pandas · Plotly Dash · XGBoost · GitHub Pages (hosting)
 
-### 3. House Price Prediction (Kaggle_House_Price_Prediction)
+#### 3. House Price Prediction (Kaggle_House_Price_Prediction)
 - **Description:** End-to-end ML solution predicting house prices using the Kaggle dataset. Covered data preprocessing, feature engineering, model tuning (CatBoost), and result interpretation.
 - **Key Technologies:** Python · Scikit-Learn · CatBoost · Matplotlib · Seaborn
 - **Highlights:** Improved RMSE by 15% through iterative feature selection and hyperparameter optimization.
 
-### 4. Comprehensive Data-Science Interview Prep
+#### 4. Comprehensive Data-Science Interview Prep
 - **Description:** Curated a full interview prep resource covering SQL queries, Python exercises, statistics, and ML concepts.
 - **Key Technologies:** Jupyter Notebooks · Markdown · GitHub Wiki
 - **Highlights:** Organized 50+ practice problems with solutions; used by 50+ stars and forks.
 
-## 🎓 Coursework & Certifications
+### 🎓 Coursework & Certifications
 
 - **Machine Learning Zoomcamp** by DataTalksClub (practical ML assignments)
 - **Deep Learning with Python** (François Chollet’s notebooks)
 - **Hands-on ML with Scikit-Learn & TensorFlow** (Aurélien Géron’s exercises)
 
 
-## 📬 Let’s Connect
+### 📬 Let’s Connect
 
 I’m actively seeking a **Data Engineer Intern** role to apply my skills to real-world challenges. Feel free to:
 
