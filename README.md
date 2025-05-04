@@ -38,7 +38,7 @@ Aspiring **Data Engineer Intern**, passionate about architecting robust, scalabl
 
 
 
-#### 🚀 Selected Projects
+### Projects
 
 #### 1. LendingClub Risk Scoring (LendingClubProject)
 - **Description:** Built an end-to-end PySpark pipeline to ingest, clean, and transform Lending Club loan data. Implemented modular Python scripts for risk evaluation and grade assignment.
