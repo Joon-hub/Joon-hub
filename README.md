@@ -1,33 +1,65 @@
-# Introduction
+```markdown
+# Hi there 👋 I'm Joon
 
-Welcome to my GitHub profile! I am currently pursuing my Master's degree in Data Science at Atlantic Technological University (ATU), Ireland. I am deeply passionate about the field of data science and continuously strive to enhance my skills and knowledge in this domain.
+**Aspiring Data Engineer | MSc Data Science Student @ ATU Sligo**
 
-## 🔭 Current Focus Areas
+Welcome to my GitHub profile! I’m pursuing my Master’s in Data Science at Atlantic Technological University, Ireland, and actively seeking a Data Engineer Intern role. My passion is architecting robust, end-to-end data solutions that power analytics and machine learning workflows.
 
-As a master's student in Data Science, I am actively engaged in:
+---
 
-- Exploring advanced data science methodologies and techniques
-- Undertaking research projects to deepen my understanding of data analysis and machine learning
-- Collaborating with peers and faculty members on innovative data-driven projects
+## 🔭 Core Focus Areas
 
-## 🌱 Ongoing Learning
+- **Data Pipeline Development:** Designing and implementing scalable ETL/ELT workflows using Python, PySpark, and Airflow.
+- **Big Data Processing:** Hands-on experience with Apache Spark and Hadoop for large-scale data transformations.
+- **Modular Architecture:** Building reusable Python modules for data ingestion, validation, and transformation.
 
-In addition to my academic pursuits, I am dedicated to continuous learning and development. I am currently focused on:
+---
 
-- Expanding my knowledge of cutting-edge data science tools and technologies
-- Gaining practical experience through hands-on projects and internships
-- Keeping abreast of the latest trends and advancements in the field of data science
+## 🌱 Ongoing Learning & Projects
 
-## 💼 Skills and Expertise
+- **Advanced Data Orchestration:** Automating pipelines with Airflow and Docker for reproducible environments.
+- **Cloud Data Services:** Exploring AWS S3, IAM roles, and serverless data processing.
+- **Real-world Case Studies:** Applying best practices in Git-based version control and CI/CD for data projects.
 
-My skillset includes:
+---
 
-- Proficiency in programming languages such as Python, R, and SQL
-- Experience with machine learning frameworks including Scikit-Learn, TensorFlow, and Keras
-- Strong analytical and problem-solving skills
-- Ability to effectively communicate insights through data visualization techniques
-- Familiarity with big data tools such as Apache Spark and Hadoop
+## 🛠️ Skills & Technologies
 
-## 📧 Let's Connect
+- **Languages & Scripting:** Python, SQL, PySpark, Bash
+- **Orchestration & Containers:** Apache Airflow, Docker, Git/GitHub
+- **Databases & Warehouses:** PostgreSQL, MySQL, Data Warehousing concepts
+- **Big Data Ecosystem:** Hadoop, Spark, Hive (foundational)
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, MLlib
 
-I am always eager to connect with fellow data enthusiasts, industry professionals, and researchers. Feel free to reach out to me via [email](mailto:sudhirjoon05@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sudhirjoon). I look forward to engaging in meaningful discussions and collaborations in the field of data science.
+---
+
+## 🚀 Featured Projects
+
+### [Lending Club Risk Scoring](https://github.com/Joon-hub/LendingClubProject)
+Modular PySpark pipeline that processes Lending Club loan data at scale and assigns risk scores.
+
+- Scalable ingestion & cleaning
+- Risk evaluation metrics and grade assignment
+- Reusable ETL modules
+
+### [German Real-estate Market Analysis](https://github.com/Joon-hub/German-Real-state-Market-Analysis)
+Interactive dashboard and data pipeline for property listings (2018–2020).
+
+- Data ingestion, cleaning, and geospatial visualization
+- Airflow DAGs for scheduled updates
+- Price prediction with XGBoost
+
+### [Flight Fare Prediction](https://github.com/Joon-hub/Flight_Fare_Prediction)
+End-to-end ML pipeline for dynamic airline ticket pricing.
+
+- Feature engineering from dates and routes
+- Modular Python code with clear data flow
+- Model evaluation and cross-validation
+
+---
+
+## 📫 Let’s Connect
+
+- ✉️ **Email:** [sudhirjoon05@gmail.com](mailto:sudhirjoon05@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/sudhirjoon](https://www.linkedin.com/in/sudhirjoon)
+```
