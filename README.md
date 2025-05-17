@@ -25,7 +25,7 @@
 
 Aspiring **Data Engineer Intern**, passionate about architecting robust, scalable data pipelines and transforming raw data into actionable insights.
 
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
 
 | Category               | Tools & Technologies                                                                                                                                                                                                                                                                                                                                                 |
