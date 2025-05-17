@@ -71,7 +71,6 @@ Aspiring **Data Engineer Intern**, passionate about architecting robust, scalabl
 I’m actively seeking a **Data Engineer Intern** role to apply my skills to real-world challenges. Feel free to:
 
 - 🌐 Explore my pinned repositories above
-- 📧 Reach out via email: **sudhirjoon05@gmail.com**
 - 🔗 Connect on LinkedIn: [Sudhir Joon](https://www.linkedin.com/in/sudhirjoon)
 
 
