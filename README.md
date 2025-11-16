@@ -19,20 +19,10 @@
   <p><em>MSc Data Science candidate at Atlantic Technological University (ATU), Ireland | Currently based in Mannheim, Germany</em></p>
 </div>
 
----
-
 **Aspiring Data Engineer** with 7 years of biopharmaceutical manufacturing experience, specializing in cloud-based data engineering, machine learning pipelines, and neuroimaging analytics. Currently completing my Master's thesis on brain connectivity classification at Forschungszentrum Jülich (Germany).
 
----
-
 ## Current Research
-
 ### Master's Thesis: Brain Connectivity Classification
-
-**Institution:** Institute of Neuroscience and Medicine (INM-7), Forschungszentrum Jülich  
-**Supervisor:** Dr. Kaustubh Patil | **Mentor:** Jean (Postdoc)  
-**Defense:** June 2026
-
 Developing a novel machine learning framework to identify brain regions from functional connectivity patterns and detect cognitive task-induced reorganization using fMRI data from the Amsterdam Open MRI Collection (AOMIC).
 
 **Key Achievements:**
@@ -47,17 +37,10 @@ Developing a novel machine learning framework to identify brain regions from fun
 ---
 
 ## Skills & Technologies
-
-### Programming
 - Python - SQL - Bash - PySpark
-### Data Engineering
 - Apache Spark - Hadoop - Hive - Kafka - Airflow - Delta Lake - Databricks
-### Cloud & Infrastructure
 - AWS - Azure (Data Factory, Databricks) - Docker - GitHub Actions - HTCondor
-### Databases
 - MySQL - PostgreSQL - Azure SQL Database
-
-### Machine Learning
 - Pandas - NumPy - Scikit-Learn - Seaborn - Matplotlib - Nilearn (Neuroimaging) - XGBoost - CatBoost
 
 ### Domain Expertise
@@ -73,7 +56,6 @@ Developing a novel machine learning framework to identify brain regions from fun
 **Repository:** brain_connectivity_classifier (Master's Thesis)
 End-to-end machine learning pipeline for classifying brain regions from functional connectivity patterns using resting-state and task-based fMRI data.
 
-**Key Components:**
 - Leak-free cross-validation with subject-wise splitting
 - Four diagonal imputation strategies for connectivity matrices
 - Multi-resolution atlas analysis (Schaefer N7/N17, Tian Scale I/II)
@@ -89,7 +71,6 @@ End-to-end machine learning pipeline for classifying brain regions from function
 Built a production-grade PySpark ETL pipeline to process and score 1M+ lending records with modular Python architecture and CI/CD integration.
 
 **Key Technologies:** PySpark, Python Modules, AWS S3, GitHub Actions (CI/CD)
-**Highlights:**
 - Processing throughput: 1M+ records in under 5 minutes
 - Data validation framework ensuring <0.1% error rate
 - Modular design with separate ingestion, transformation, and scoring modules
@@ -98,8 +79,6 @@ Built a production-grade PySpark ETL pipeline to process and score 1M+ lending r
 **Repository:** German_Real_Estate_Analysis
 Comprehensive analysis of 2018-2020 immoscout24.de property listings, identifying pricing trends and demand patterns across German cities.
 **Key Technologies:** Pandas, Plotly Dash, XGBoost, GitHub Pages
-
-**Highlights:**
 - Interactive dashboard for city-wise price visualization
 - Time-series analysis revealing market trends during 2018-2020 period
 - Predictive modeling for price forecasting
@@ -109,18 +88,12 @@ Comprehensive analysis of 2018-2020 immoscout24.de property listings, identifyin
 End-to-end machine learning solution for predicting house prices using the Kaggle competition dataset, covering data preprocessing through model deployment.
 
 **Key Technologies:** Python, Scikit-Learn, CatBoost, Matplotlib, Seaborn
-
-**Highlights:**
 - 15% RMSE improvement through iterative feature engineering
 - Comprehensive hyperparameter optimization using GridSearchCV
 - Detailed model interpretation and feature importance analysis
 
 ### 5. Comprehensive Data Science Interview Preparation
-**Repository:** Data_Science_Interview_Prep
 Curated collection of SQL queries, Python exercises, statistics problems, and machine learning concepts for technical interview preparation.
-
-**Key Technologies:** Jupyter Notebooks, Markdown, GitHub Wiki
-**Highlights:**
 - 50+ practice problems with detailed solutions
 - Organized by topic: SQL, Python, Statistics, ML Algorithms
 - Community-validated resource (50+ stars and forks)
