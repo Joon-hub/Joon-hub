@@ -1,4 +1,3 @@
-
 <!-- BADGES -->
 <p align="center">
   <a href="https://github.com/Joon-hub?tab=followers">
@@ -16,61 +15,217 @@
 </p>
 
 <div align="center">
-  <span><strong>Hi there 👋, I'm Sudhir Joon</strong> 
-    — <em>MSc Data Science candidate at ATU Sligo, Ireland (3rd Semester)</em></span>
+  <h2>Hi there, I'm Sudhir Joon</h2>
+  <p><em>MSc Data Science candidate at Atlantic Technological University (ATU), Ireland | Currently based in Mannheim, Germany</em></p>
 </div>
 
-<br>
-<br>
+---
 
-Aspiring **Data Engineer Intern**, passionate about architecting robust, scalable data pipelines and transforming raw data into actionable insights.
+**Aspiring Data Engineer** with 7 years of biopharmaceutical manufacturing experience, specializing in cloud-based data engineering, machine learning pipelines, and neuroimaging analytics. Currently completing my Master's thesis on brain connectivity classification at Forschungszentrum Jülich (Germany).
 
-### Skills & Technologies
+---
 
+## Current Research
 
-| Category               | Tools & Technologies                                                                                                                                                                                                                                                                                                                                                 |
-|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programming**        | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20"/> Python &nbsp; <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="20"/> SQL &nbsp; <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="20"/> Bash &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="20"/> PySpark |
-| **Data Engineering**   | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="20"/> Apache Spark &nbsp; <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="20"/> Hadoop &nbsp; <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="20"/> Hive &nbsp; <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="20"/> Kafka &nbsp; <img src="https://img.icons8.com/color/48/000000/airflow.png" alt="Airflow" width="20"/> Airflow |
-| **Cloud & Infra**      | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="20"/> AWS &nbsp; <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="20"/> Azure &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="20"/> Docker &nbsp; <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="20"/> GitHub Actions |
-| **Databases**          | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20"/> MySQL &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="20"/> PostgreSQL |
-| **Data Analysis**      | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="20"/> Pandas &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="20"/> NumPy &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="20"/> Scikit-Learn &nbsp; <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="20"/> Seaborn |
+### Master's Thesis: Brain Connectivity Classification
 
+**Institution:** Institute of Neuroscience and Medicine (INM-7), Forschungszentrum Jülich  
+**Supervisor:** Dr. Kaustubh Patil | **Mentor:** Jean (Postdoc)  
+**Defense:** June 2026
 
+Developing a novel machine learning framework to identify brain regions from functional connectivity patterns and detect cognitive task-induced reorganization using fMRI data from the Amsterdam Open MRI Collection (AOMIC).
 
-### Projects
+**Key Achievements:**
+- Built a leak-free cross-validation pipeline achieving 73-84% classification accuracy (168-196x improvement over 0.43% baseline)
+- Analyzed 232 brain regions across 424 subjects using multinomial logistic regression
+- Discovered systematic hemisphere confusion patterns revealing functional symmetry in brain organization
+- Implemented modular Python architecture with 7 core modules for data processing, modeling, and visualization
+- Deployed HTCondor cluster computing for scalable neuroimaging analysis
 
-#### 1. LendingClub Risk Scoring (LendingClubProject)
-- **Description:** Built an end-to-end PySpark pipeline to ingest, clean, and transform Lending Club loan data. Implemented modular Python scripts for risk evaluation and grade assignment.
-- **Key Technologies:** PySpark · Python Modules · AWS S3 (for staging) · GitHub Actions (CI/CD)
-- **Highlights:** Achieved a processing throughput of 1M+ records in under 5 minutes; implemented data validation checks to ensure <0.1% error rate.
+**Technologies:** Python, Scikit-Learn, Nilearn, PySpark, HTCondor, YAML Configuration, Matplotlib, Seaborn
 
-#### 2. German Real Estate Market Analysis
-- **Description:** Analyzed 2018–2020 immoscout24.de listings to identify trends in pricing and demand. Developed an interactive Dash dashboard to visualize city-wise price fluctuations.
-- **Key Technologies:** Pandas · Plotly Dash · XGBoost · GitHub Pages (hosting)
+---
 
-#### 3. House Price Prediction (Kaggle_House_Price_Prediction)
-- **Description:** End-to-end ML solution predicting house prices using the Kaggle dataset. Covered data preprocessing, feature engineering, model tuning (CatBoost), and result interpretation.
-- **Key Technologies:** Python · Scikit-Learn · CatBoost · Matplotlib · Seaborn
-- **Highlights:** Improved RMSE by 15% through iterative feature selection and hyperparameter optimization.
+## Skills & Technologies
 
-#### 4. Comprehensive Data-Science Interview Prep
-- **Description:** Curated a full interview prep resource covering SQL queries, Python exercises, statistics, and ML concepts.
-- **Key Technologies:** Jupyter Notebooks · Markdown · GitHub Wiki
-- **Highlights:** Organized 50+ practice problems with solutions; used by 50+ stars and forks.
+### Programming
+- Python
+- SQL
+- Bash
+- PySpark
 
-### 🎓 Coursework & Certifications
+### Data Engineering
+- Apache Spark
+- Hadoop
+- Hive
+- Kafka
+- Airflow
+- Delta Lake
+- Databricks
 
-- **Machine Learning Zoomcamp** by DataTalksClub (practical ML assignments)
-- **Deep Learning with Python** (François Chollet’s notebooks)
-- **Hands-on ML with Scikit-Learn & TensorFlow** (Aurélien Géron’s exercises)
+### Cloud & Infrastructure
+- AWS
+- Azure (Data Factory, Databricks)
+- Docker
+- GitHub Actions
+- HTCondor
 
+### Databases
+- MySQL
+- PostgreSQL
+- Azure SQL Database
 
-### 📬 Let’s Connect
+### Machine Learning
+- Pandas
+- NumPy
+- Scikit-Learn
+- Seaborn
+- Matplotlib
+- Nilearn (Neuroimaging)
+- XGBoost
+- CatBoost
 
-I’m actively seeking a **Data Engineer Intern** role to apply my skills to real-world challenges. Feel free to:
+### Domain Expertise
+- GMP Compliance (Biopharmaceutical Manufacturing)
+- Neuroimaging (fMRI Analysis)
+- ETL Pipeline Design
+- Data Lakehouse Architecture
+- Statistical Modeling
 
-- 🌐 Explore my pinned repositories above
-- 🔗 Connect on LinkedIn: [Sudhir Joon](https://www.linkedin.com/in/sudhirjoon)
+---
 
+## Featured Projects
 
+### 1. Brain Connectivity Classification Pipeline
+**Repository:** brain_connectivity_classifier (Master's Thesis)
+
+End-to-end machine learning pipeline for classifying brain regions from functional connectivity patterns using resting-state and task-based fMRI data.
+
+**Key Components:**
+- Leak-free cross-validation with subject-wise splitting
+- Four diagonal imputation strategies for connectivity matrices
+- Multi-resolution atlas analysis (Schaefer N7/N17, Tian Scale I/II)
+- Network-level connectivity analysis and task modulation detection
+- Publication-quality visualization generation (300 DPI PNG outputs)
+
+**Technologies:** Python, Scikit-Learn, Nilearn, Pandas, NumPy, Matplotlib, Seaborn, HTCondor, YAML
+
+**Results:** 84% validation accuracy, 82% task prediction accuracy, comprehensive CSV/PNG outputs for thesis integration
+
+---
+
+### 2. LendingClub Risk Scoring Pipeline
+**Repository:** LendingClubProject
+
+Built a production-grade PySpark ETL pipeline to process and score 1M+ lending records with modular Python architecture and CI/CD integration.
+
+**Key Technologies:** PySpark, Python Modules, AWS S3, GitHub Actions (CI/CD)
+
+**Highlights:**
+- Processing throughput: 1M+ records in under 5 minutes
+- Data validation framework ensuring <0.1% error rate
+- Modular design with separate ingestion, transformation, and scoring modules
+
+---
+
+### 3. German Real Estate Market Analysis
+**Repository:** German_Real_Estate_Analysis
+
+Comprehensive analysis of 2018-2020 immoscout24.de property listings, identifying pricing trends and demand patterns across German cities.
+
+**Key Technologies:** Pandas, Plotly Dash, XGBoost, GitHub Pages
+
+**Highlights:**
+- Interactive dashboard for city-wise price visualization
+- Time-series analysis revealing market trends during 2018-2020 period
+- Predictive modeling for price forecasting
+
+---
+
+### 4. House Price Prediction
+**Repository:** Kaggle_House_Price_Prediction
+
+End-to-end machine learning solution for predicting house prices using the Kaggle competition dataset, covering data preprocessing through model deployment.
+
+**Key Technologies:** Python, Scikit-Learn, CatBoost, Matplotlib, Seaborn
+
+**Highlights:**
+- 15% RMSE improvement through iterative feature engineering
+- Comprehensive hyperparameter optimization using GridSearchCV
+- Detailed model interpretation and feature importance analysis
+
+---
+
+### 5. Comprehensive Data Science Interview Preparation
+**Repository:** Data_Science_Interview_Prep
+
+Curated collection of SQL queries, Python exercises, statistics problems, and machine learning concepts for technical interview preparation.
+
+**Key Technologies:** Jupyter Notebooks, Markdown, GitHub Wiki
+
+**Highlights:**
+- 50+ practice problems with detailed solutions
+- Organized by topic: SQL, Python, Statistics, ML Algorithms
+- Community-validated resource (50+ stars and forks)
+
+---
+
+## Professional Background
+
+**7 Years in Biopharmaceutical Manufacturing**  
+Production Technician | AGC Biologics, Ferring Pharmaceuticals, Elanco Animal Health
+
+- GMP-compliant process monitoring and data collection
+- Real-time production data analysis and quality control
+- Cross-functional collaboration with QA, QC, and engineering teams
+- Equipment validation and Standard Operating Procedure (SOP) adherence
+
+---
+
+## Education & Certifications
+
+**Master of Science in Data Science** (Expected: April 2026)  
+Atlantic Technological University (ATU), Sligo, Ireland
+
+**Relevant Coursework:**
+- Machine Learning Zoomcamp by DataTalksClub
+- Deep Learning with Python (François Chollet)
+- Hands-on ML with Scikit-Learn & TensorFlow (Aurélien Géron)
+- Databricks Data Engineer Associate (In Progress)
+
+---
+
+## Publications & Educational Content
+
+Actively creating technical tutorials and educational content on LinkedIn:
+- Git version control best practices
+- NeuroML neuroimaging workflows
+- Python package development guides
+- Databricks Structured Streaming tutorials
+- Delta Lake operations and data lakehouse architecture
+
+---
+
+## Career Objectives
+
+Actively seeking **Data Engineer Internship** and **Master's Thesis Opportunities** to apply expertise in:
+- Cloud-based data engineering (Azure Data Factory, Databricks)
+- ETL pipeline development and orchestration
+- Big data processing with PySpark and Delta Lake
+- Machine learning model deployment and MLOps
+- Scientific computing and neuroimaging analysis
+
+**Available:** Immediate start for internships | Thesis defense scheduled for June 2026
+
+---
+
+## Connect with Me
+
+**Location:** Currently based in Mannheim, Germany  
+**LinkedIn:** [linkedin.com/in/sudhirjoon](https://www.linkedin.com/in/sudhirjoon)  
+**Email:** sudhirjoon05@gmail.com  
+**GitHub:** Explore my pinned repositories for detailed project implementations
+
+---
+
+**Open to:** Data Engineering Internships | Research Collaborations | Technical Discussions | Networking Opportunities
