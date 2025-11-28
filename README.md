@@ -1,4 +1,3 @@
-<!-- BADGES -->
 <p align="center">
   <a href="https://github.com/Joon-hub?tab=followers">
     <img src="https://img.shields.io/github/followers/Joon-hub?label=Follow&style=social" alt="GitHub Follow" />
@@ -15,127 +14,87 @@
 </p>
 
 <div align="center">
-  <h2>Hi there, I'm Sudhir Joon</h2>
-  <p><em>MSc Data Science candidate at Atlantic Technological University (ATU), Ireland | Currently based in Mannheim, Germany</em></p>
+  <h2>Sudhir Joon</h2>
+  <p><strong>Data Engineer & MSc Data Science Candidate</strong><br>
+  <em>Specializing in Cloud ETL, Neuroimaging Analytics, and ML Pipelines</em><br>
+  Based in Mannheim, Germany</p>
 </div>
-
-**Aspiring Data Engineer** with 7 years of biopharmaceutical manufacturing experience, specializing in cloud-based data engineering, machine learning pipelines, and neuroimaging analytics. Currently completing my Master's thesis on brain connectivity classification at Forschungszentrum Jülich (Germany).
-
-## Current Research
-### Master's Thesis: Brain Connectivity Classification
-Developing a novel machine learning framework to identify brain regions from functional connectivity patterns and detect cognitive task-induced reorganization using fMRI data from the Amsterdam Open MRI Collection (AOMIC).
-
-**Key Achievements:**
-- Built a leak-free cross-validation pipeline achieving 73-84% classification accuracy (168-196x improvement over 0.43% baseline)
-- Analyzed 232 brain regions across 424 subjects using multinomial logistic regression
-- Discovered systematic hemisphere confusion patterns revealing functional symmetry in brain organization
-- Implemented modular Python architecture with 7 core modules for data processing, modeling, and visualization
-- Deployed HTCondor cluster computing for scalable neuroimaging analysis
-
-**Technologies:** Python, Scikit-Learn, Nilearn, PySpark, HTCondor, YAML Configuration, Matplotlib, Seaborn
 
 ---
 
-## Skills & Technologies
-- Python - SQL - Bash - PySpark
-- Apache Spark - Hadoop - Hive - Kafka - Airflow - Delta Lake - Databricks
-- AWS - Azure (Data Factory, Databricks) - Docker - GitHub Actions - HTCondor
-- MySQL - PostgreSQL - Azure SQL Database
-- Pandas - NumPy - Scikit-Learn - Seaborn - Matplotlib - Nilearn (Neuroimaging) - XGBoost - CatBoost
+**Data Engineer** leveraging 7 years of GMP-regulated biopharmaceutical experience to build robust, compliant data architectures. Currently engineering scalable neuroimaging pipelines at **Forschungszentrum Jülich** using PySpark and HTCondor. Expertise spans cloud-based ETL (AWS/Azure), leakage-free ML validation, and statistical modeling.
 
-### Domain Expertise
-- GMP Compliance (Biopharmaceutical Manufacturing)
-- Neuroimaging (fMRI Analysis)
-- ETL Pipeline Design
-- Data Lakehouse Architecture
-- Statistical Modeling
+## Current Research: Brain Connectivity Classification
+**Master's Thesis | Forschungszentrum Jülich**
+Architected a machine learning framework to decode brain regions from functional connectivity patterns using fMRI data (AOMIC).
 
-## Featured Projects
+* **Performance:** Achieved **84% validation accuracy** (approx. 190x improvement over baseline) using leak-free subject-wise cross-validation.
+* **Scale:** Processed 232 regions across 424 subjects via **HTCondor** cluster computing.
+* **Discovery:** Identified systematic hemisphere confusion, validating functional symmetry in brain organization.
+* **Engineering:** Built a modular Python library (7 core modules) for ingestion, modeling, and visualization.
+* **Stack:** Python, Scikit-Learn, Nilearn, PySpark, HTCondor, YAML.
 
-### 1. Brain Connectivity Classification Pipeline
-**Repository:** brain_connectivity_classifier (Master's Thesis)
-End-to-end machine learning pipeline for classifying brain regions from functional connectivity patterns using resting-state and task-based fMRI data.
+---
 
-- Leak-free cross-validation with subject-wise splitting
-- Four diagonal imputation strategies for connectivity matrices
-- Multi-resolution atlas analysis (Schaefer N7/N17, Tian Scale I/II)
-- Network-level connectivity analysis and task modulation detection
-- Publication-quality visualization generation (300 DPI PNG outputs)
+## Skills & Stack
 
-**Technologies:** Python, Scikit-Learn, Nilearn, Pandas, NumPy, Matplotlib, Seaborn, HTCondor, YAML
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL, Bash, R |
+| **Big Data & ETL** | PySpark, Apache Spark, Hadoop, Hive, Kafka, Airflow, Delta Lake |
+| **Cloud & DevOps** | AWS, Azure (Data Factory, Databricks), Docker, GitHub Actions, HTCondor |
+| **Databases** | MySQL, PostgreSQL, Azure SQL |
+| **Data Science** | Pandas, NumPy, Scikit-Learn, XGBoost, CatBoost, Nilearn (Neuroimaging) |
+| **Domain Knowledge** | GMP Compliance, Statistical Modeling, Data Lakehouse Architecture |
 
-**Results:** 84% validation accuracy, 82% task prediction accuracy, comprehensive CSV/PNG outputs for thesis integration
+---
 
-### 2. LendingClub Risk Scoring Pipeline
-**Repository:** LendingClubProject
-Built a production-grade PySpark ETL pipeline to process and score 1M+ lending records with modular Python architecture and CI/CD integration.
+## Featured Engineering Projects
 
-**Key Technologies:** PySpark, Python Modules, AWS S3, GitHub Actions (CI/CD)
-- Processing throughput: 1M+ records in under 5 minutes
-- Data validation framework ensuring <0.1% error rate
-- Modular design with separate ingestion, transformation, and scoring modules
+### [LendingClub Risk Scoring Pipeline](https://github.com/Joon-hub/LendingClubProject)
+*Production-grade ETL pipeline processing 1M+ lending records.*
+* **High Throughput:** Engineered a PySpark pipeline processing 1M+ records in <5 minutes.
+* **Data Quality:** Implemented a validation framework ensuring <0.1% error rate.
+* **Architecture:** Modular design with isolated ingestion, transformation, and scoring layers; integrated via CI/CD (GitHub Actions).
 
-### 3. German Real Estate Market Analysis
-**Repository:** German_Real_Estate_Analysis
-Comprehensive analysis of 2018-2020 immoscout24.de property listings, identifying pricing trends and demand patterns across German cities.
-**Key Technologies:** Pandas, Plotly Dash, XGBoost, GitHub Pages
-- Interactive dashboard for city-wise price visualization
-- Time-series analysis revealing market trends during 2018-2020 period
-- Predictive modeling for price forecasting
+### [German Real Estate Market Analytics](https://github.com/Joon-hub/German_Real_Estate_Analysis)
+*Time-series analysis of property listings (2018-2020) to forecast pricing trends.*
+* **Visualization:** Developed an interactive Plotly Dash dashboard for city-level price granularity.
+* **Modeling:** Deployed XGBoost for price forecasting and demand pattern recognition.
 
-### 4. House Price Prediction
-**Repository:** Kaggle_House_Price_Prediction
-End-to-end machine learning solution for predicting house prices using the Kaggle competition dataset, covering data preprocessing through model deployment.
+### [House Price Prediction Engine](https://github.com/Joon-hub/Kaggle_House_Price_Prediction)
+*End-to-end regression workflow with advanced feature engineering.*
+* **Optimization:** Reduced RMSE by **15%** through iterative feature selection and CatBoost hyperparameter tuning (GridSearchCV).
+* **Explainability:** Delivered detailed feature importance analysis for model interpretability.
 
-**Key Technologies:** Python, Scikit-Learn, CatBoost, Matplotlib, Seaborn
-- 15% RMSE improvement through iterative feature engineering
-- Comprehensive hyperparameter optimization using GridSearchCV
-- Detailed model interpretation and feature importance analysis
+### [Tech Interview Resource Hub](https://github.com/Joon-hub)
+*Community-validated repository for Data Science preparation.*
+* **Content:** 50+ solved problems covering SQL, Python algorithms, and probability.
+* **Impact:** Validated by 50+ GitHub stars/forks.
 
-### 5. Comprehensive Data Science Interview Preparation
-Curated collection of SQL queries, Python exercises, statistics problems, and machine learning concepts for technical interview preparation.
-- 50+ practice problems with detailed solutions
-- Organized by topic: SQL, Python, Statistics, ML Algorithms
-- Community-validated resource (50+ stars and forks)
-  
+---
+
 ## Professional Background
-**7 Years in Biopharmaceutical Manufacturing**  
-Production Technician | AGC Biologics, Ferring Pharmaceuticals, Elanco Animal Health
-- GMP-compliant process monitoring and data collection
-- Real-time production data analysis and quality control
-- Cross-functional collaboration with QA, QC, and engineering teams
-- Equipment validation and Standard Operating Procedure (SOP) adherence
 
-## Education & Certifications
-**Master of Science in Data Science** (Expected: April 2026)  
-Atlantic Technological University (ATU), Sligo, Ireland
+**Biopharmaceutical Production Technician (7 Years)**
+*AGC Biologics | Ferring Pharmaceuticals | Elanco Animal Health*
+* **Regulatory Rigor:** Executed GMP-compliant processes with strict adherence to SOPs, directly translating to data governance standards.
+* **Process Control:** Monitored real-time production data to ensure quality assurance across critical manufacturing phases.
+* **Validation:** Collaborated with QA/Engineering on equipment validation protocols.
 
-**Relevant Coursework:**
-- Machine Learning Zoomcamp by DataTalksClub
-- Deep Learning with Python (François Chollet)
-- Hands-on ML with Scikit-Learn & TensorFlow (Aurélien Géron)
-- Databricks Data Engineer Associate (In Progress)
+---
 
-## Publications & Educational Content
-Actively creating technical tutorials and educational content on LinkedIn:
-- Git version control best practices
-- NeuroML neuroimaging workflows
-- Python package development guides
-- Databricks Structured Streaming tutorials
-- Delta Lake operations and data lakehouse architecture
+## Education
 
-## Career Objectives
-Actively seeking **Data Engineer Internship** and **Master's Thesis Opportunities** to apply expertise in:
-- Cloud-based data engineering (Azure Data Factory, Databricks)
-- ETL pipeline development and orchestration
-- Big data processing with PySpark and Delta Lake
-- Machine learning model deployment and MLOps
-- Scientific computing and neuroimaging analysis
+* **MSc Data Science** | Atlantic Technological University (ATU), Ireland *(Expected April 2026)*
+* **Certifications:** Databricks Data Engineer Associate (In Progress), Machine Learning Zoomcamp, Deep Learning with Python.
 
-## Connect with Me
-**Location:** Currently based in Mannheim, Germany  
-**LinkedIn:** [linkedin.com/in/sudhirjoon](https://www.linkedin.com/in/sudhirjoon)  
-**Email:** sudhirjoon05@gmail.com  
-**GitHub:** Explore my pinned repositories for detailed project implementations
+---
 
-**Open to:** Data Engineering Internships | Research Collaborations | Technical Discussions | Networking Opportunities
+<div align="center">
+  <p><strong>Open to Data Engineering Internships & Research Collaborations</strong></p>
+  <p>
+    <a href="https://linkedin.com/in/sudhirjoon">LinkedIn</a> •
+    <a href="mailto:sudhirjoon05@gmail.com">Email</a>
+  </p>
+</div>
